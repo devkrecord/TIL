@@ -78,7 +78,7 @@ const SpinBox = () => {
 
 - 장점
   - 마크업 소스와 분리되어 있어서 QA 할 때 수정하는게 편하다.
-    - 비지니스 로직이 모여있어 다른 개발자들이 봐도 파악하기 편하다.
+  - 비지니스 로직이 모여있어 다른 개발자들이 봐도 파악하기 편하다.
   - FE, UI개발 관심사가 분리되어 불필요한 코드 파악이 줄어들었다.
   - UI를 재사용하기 좋고 불필요한 마크업 개발이 줄어 유지보수하기 좋다.
 - 단점
@@ -91,6 +91,6 @@ const SpinBox = () => {
 
 <br>
 
-Reference
-https://d2.naver.com/news/0568192
+Reference<br>
+https://d2.naver.com/news/0568192<br>
 https://wit.nts-corp.com/2021/08/11/6461
