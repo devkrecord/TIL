@@ -31,13 +31,13 @@ origin 'null' has been blocked by CORS policy
 
 - `<script type=module>` -> `<script>`로 수정
 
-<br>----
+---
 
-###### CORS란?
+##### CORS란?
 
 - Cross-Origin Resource Sharing의 약자입니다. 교차 출처 리소스 공유로 번역될 수 있는데, 브라우저에서 다른 출처의 리소스를 공유하는 방법
 
-###### 출처(Origin)란?
+##### 출처(Origin)란?
 
 - 출처(Origin)란 URL 구조에서 Protocal, Host, Port를 합친 것을 말한다. 브라우저 개발자 도구의 콘솔 창에 location.origin를 실행하면 출처를 확인할 수 있다.
 
